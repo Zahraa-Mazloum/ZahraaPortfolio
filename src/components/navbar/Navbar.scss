@@ -1,0 +1,43 @@
+.navbar {
+    height: 100px;
+    background-color: white;
+    color: #494543;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 1000; 
+    transition: background-color 0.3s ease;
+
+    button{
+        background: none;
+        border: none;
+        font-size: 25px;
+        color: inherit;
+        cursor: pointer;
+    }
+
+    .wrapper{
+        max-width: 1366px;
+        margin:auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height:100%;
+        font-size: 25px ;
+
+
+        span{
+            font-weight: bold;
+
+        }
+        .logo{
+            height: 370px;
+            margin-left: -100px;
+        }
+        .sections{
+display: flex;
+gap:40px;
+        }
+    }
+ 
+}
