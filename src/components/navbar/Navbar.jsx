@@ -17,7 +17,7 @@ const Navbar = () => {
 {/* Sidebar */}
 {/* <Sidebar /> */}
 <div className='wrapper'>
-    <motion.span initial={{opacity:0, scale:0.5}} animate={{opacity:1,scale:1}} transition={{duration:0.5}}> <img src="./dist/images/ZMLOGO.png" className='logo'/> </motion.span>
+    <motion.span initial={{opacity:0, scale:0.5}} animate={{opacity:1,scale:1}} transition={{duration:0.5}}> <img src="src/images/ZMLOGO.png" className='logo'/> </motion.span>
 
     <div className='sections'>
     <button onClick={() => scrollToSection("Home")}>Home</button>
