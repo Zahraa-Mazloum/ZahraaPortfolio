@@ -5,20 +5,20 @@ import 'slick-carousel/slick/slick-theme.css';
 import './Certficates.scss'
 
 const certificates = [
-  { id: 1, image: "src/images/FullStack.png", title: 'Full Stack Web Development' },
-  { id: 2, image: "src/images/ReactJs.png", title: 'React Js' },
-  { id: 3, image: "src/images/DesignPatterns.png", title: 'Design Patterns' },
-  { id: 4, image: "src/images/CSSSelectors.png", title: 'CSS Selectors' },
-  { id: 5, image: "src/images/GitAndGitHub.png", title: 'Git And GitHub' },
-  { id: 6, image: "src/images/SocialMediaMarketing.png", title: 'Social Media Marketing' },
-  { id: 7, image: "src/images/WordpressEcommerce.png", title: 'Wordpress Ecommerce' },
-  { id: 8, image: "src/images/Markdown.png", title: 'Markdown' },
-  { id: 9, image: "src/images/GitEssential.png", title: 'Git Essential' },
-  { id: 10, image: "src/images/Linux.png", title: 'Linux' },
-  { id: 11, image: "src/images/PythonObjectOriented.png", title: 'Python Object Oriented' },
-  { id: 12, image: "src/images/PHPWithMySQL.png", title: 'PHP with MySQL' },
-  { id: 13, image: "src/images/Algorithms.png", title: 'Algorithms' },
-  { id: 14, image: "src/images/PHP.png", title: 'PHP' },
+  { id: 1, image: "./FullStack.png", title: 'Full Stack Web Development' },
+  { id: 2, image: "./ReactJs.png", title: 'React Js' },
+  { id: 3, image: "./DesignPatterns.png", title: 'Design Patterns' },
+  { id: 4, image: "./CSSSelectors.png", title: 'CSS Selectors' },
+  { id: 5, image: "./GitAndGitHub.png", title: 'Git And GitHub' },
+  { id: 6, image: "./SocialMediaMarketing.png", title: 'Social Media Marketing' },
+  { id: 7, image: "./WordpressEcommerce.png", title: 'Wordpress Ecommerce' },
+  { id: 8, image: "./Markdown.png", title: 'Markdown' },
+  { id: 9, image: "./GitEssential.png", title: 'Git Essential' },
+  { id: 10, image: "./Linux.png", title: 'Linux' },
+  { id: 11, image: "./PythonObjectOriented.png", title: 'Python Object Oriented' },
+  { id: 12, image: "./PHPWithMySQL.png", title: 'PHP with MySQL' },
+  { id: 13, image: "./Algorithms.png", title: 'Algorithms' },
+  { id: 14, image: "./PHP.png", title: 'PHP' },
 
 
 

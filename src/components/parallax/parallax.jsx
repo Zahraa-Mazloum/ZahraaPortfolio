@@ -35,7 +35,7 @@ const Parallax = ({ type }) => {
         }}
        
       >
-<img src={type === "services" ? "src/images/certificate.png" : "src/images/projects.png"}          className="floating-image"
+<img src={type === "services" ? "./certificate.png" : "./projects.png"}          className="floating-image"
 />
 
       </motion.div>
