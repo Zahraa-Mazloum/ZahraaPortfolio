@@ -21,8 +21,8 @@ const Navbar = () => {
 
     <div className='sections'>
     <button onClick={() => scrollToSection("Home")}>Home</button>
+    <button href="#" onClick={() => scrollToSection("Certificates")}>Certificates</button>
           <button href="#" onClick={() => scrollToSection("Projects")}>Projects</button>
-          <button href="#" onClick={() => scrollToSection("Certificates")}>Certificates</button>
           <button href="#" onClick={() => scrollToSection("Skills")}>Skills</button>
           <button href="#" onClick={() => scrollToSection("Contact")}>Contact</button>
         </div>
